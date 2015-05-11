@@ -1,0 +1,56 @@
+body {
+	background-color: #3FA4D6;
+}
+.parent-box {
+	margin:20px 10%;
+}
+.font {
+	color:white;
+	font-size: 13px;
+}
+.format {
+	display:block;
+	width:100%;
+	background-color: #3FA4D6;
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+	margin-bottom: 25px;
+}
+
+::-webkit-input-placeholder {
+   color: #006996;
+   font-style: italic;
+}
+.select-border {
+	border-style:solid;
+	border-color:#8AA5B3;
+}
+.textarea-height {
+	height:120px;
+}
+.radio-check {
+	width:58%;
+	display:block;
+	margin-left: 1.5%;
+	margin-top: 1.5%;
+	margin-bottom:2.5%;
+}
+.send-parent-box {
+	width:100%;
+	height: 70px;
+	display: inline-block;
+}
+.send-data {
+	background-color: #006996;
+	width:175px;
+	height:45px;
+	border-radius: 2px;
+	margin:  auto;
+	text-align: center;
+}
+.send-text {
+	color:white;
+	font-size: 14px;
+	display: inline-block;
+}
